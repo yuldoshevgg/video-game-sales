@@ -17,7 +17,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yuldoshevgg/video-game-sales.git](https://github.com/yuldoshevgg/video-game-sales.git)
+    git clone https://github.com/yuldoshevgg/video-game-sales.git
     cd video-game-sales
     ```
 
